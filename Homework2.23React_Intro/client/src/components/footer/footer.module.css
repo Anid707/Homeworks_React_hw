@@ -1,0 +1,30 @@
+.footer{
+    height: 100px;
+    background-color: darkgreen;
+}
+
+.container{
+    max-width: 1420px;
+    margin: auto;
+    padding: 20px 50px;
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    align-items: center;
+    color: white;
+    overflow: hidden;
+}
+
+.info{
+    width: 50%;
+    height: 50px;
+    background-color: darkred;
+    padding: 5px 10px;
+}
+
+.contacts{
+    width: 50%;
+    height: 50px;
+    background-color: darkblue;
+    padding: 5px 10px;
+}
